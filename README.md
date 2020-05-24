@@ -36,4 +36,3 @@ Bug reports and pull requests are welcome on GitHub at https://github.com/[USERN
 
 # movie_guru
 # movie_guru
-# movie_guru
