@@ -17,12 +17,8 @@ class Movie
         @@all << self
     end
 
-    def self.find_by_name(name)
-        self.all.select do |title|
-            Movie.name == title
-        end
+    def self.destroy_all
+        @@all.clear
     end
+  
 end
-
-
-
