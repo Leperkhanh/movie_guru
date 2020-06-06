@@ -1,8 +1,6 @@
 # MovieGuru
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/movie_guru`. To experiment with that code, run `bin/console` for an interactive prompt.
-
-TODO: Delete this and the text above, and describe your gem
+Welcome to the Movie-Guru gem. This gem was made to find the top rated, most popular, and trending movies. Movie-Guru can also search for a movie by name and return information about a certain movie.
 
 ## Installation
 
@@ -22,7 +20,7 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+The top menu gives you a choice of which movies to find information. You can select from Top Rated movies, Most popular movies, Trending movies, or you can search for your own movie by the name. If you are using the first 3 options then please select which option you want, then select the movie you want out of the returned list. If you are using the search option, please enter the name of the movie that you would like to find. After entering the movie name, you can choose from the list that comes up. The information for the movie will show once a selection is made.
 
 ## Development
 
