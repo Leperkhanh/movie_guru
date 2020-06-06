@@ -34,5 +34,4 @@ Bug reports and pull requests are welcome on GitHub at https://github.com/[USERN
 
 ## License
 https://github.com/Leperkhanh/movie_guru/blob/master/LICENSE
-# movie_guru
-# movie_guru
+
