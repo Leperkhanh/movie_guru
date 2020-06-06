@@ -32,7 +32,7 @@ To install this gem onto your local machine, run `bundle exec rake install`. To 
 
 Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/movie_guru.
 
-# License
+## License
 https://github.com/Leperkhanh/movie_guru/blob/master/LICENSE
 # movie_guru
 # movie_guru
